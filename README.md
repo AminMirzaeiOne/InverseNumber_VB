@@ -23,4 +23,4 @@ It receives the desired number of the user and inverts it and then displays it o
 4 - View the result
 
 <h2>📷 Screenshots</h2>
-<img width="675" alt="Capture" src="https://github.com/user-attachments/assets/16e3e619-0830-4c90-8a68-06cba6e7c3a4">
+<img width="675" alt="Capture7" src="https://github.com/user-attachments/assets/391e50eb-d7b5-48fb-ae9e-8094e93cae98">
